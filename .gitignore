@@ -1,0 +1,4 @@
+node_modules
+output.opus
+output.wav
+.env
